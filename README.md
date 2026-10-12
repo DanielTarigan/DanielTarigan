@@ -1,4 +1,4 @@
 # Daniel Tarigan
 
-Sophomore at HKUST studying Data Science & Technology. 
+Junior at HKUST studying Data Science & Technology. 
 
